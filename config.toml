@@ -13,11 +13,11 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
 [params]
-title = "Bart-Jan Boverhof"
+title = "Bart-Jan, Boverhof, Bart-Jan Boverhof, Utrecht university, Statistian, Statistiek"
 author = "Bart-Jan"
 description = "Student Methods & Statistics"
 profilePicture = "images/profile.jpg"
-keywords = "q"
+keywords = "Bart-Jan Boverhof Utrecht University"
 favicon = "favicons/"
 # example ["css/custom.css"]
 customCss = []

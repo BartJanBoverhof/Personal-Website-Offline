@@ -5,7 +5,7 @@ date = "2021"
 author = "Bart-Jan Boverhof"
 +++
 
-I am Bart-Jan. I love statistics. Recently, I've also started to love deep-learning. Why stats? And why deep-learning? Well, I thoroughly enjoy to disentangle something. Going to the bottom of things provides a lot of **statisfaction** (*[Ba Dum Tss](https://www.youtube.com/watch?v=6zXDo4dL7SU)*). In my experience, both statistics and deep-learning lend themselves perfectly for this *getting to the bottom of stuff*. There is always something more to learn.
+I am Bart-Jan. I'm a student of statistics. Recently, I've also started studying deep-learning. Why stats? And why deep-learning? Well, I thoroughly enjoy to disentangle something. Going to the bottom of things provides a lot of **statisfaction** (*[Ba Dum Tss](https://www.youtube.com/watch?v=6zXDo4dL7SU)*). In my experience, both statistics and deep-learning lend themselves perfectly for this *getting to the bottom of stuff*. There is always something more to learn.
 
 The *rabbit-hole* like nature of statistics and deep-learning implies there is always something else. When you think *you finally know it all*, something new appears on the horizon. I hope, that my path down through the rabbit-hole is a journey that will never cease to exist.
 
