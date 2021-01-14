@@ -1,8 +1,8 @@
 baseURL = "https://bartjanboverhof.github.io"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Home"
-theme = "anatole"
+title = "Bart-Jan Boverhof"
+theme = "soho-master"
 summarylength = 10
 enableEmoji = true
 enableRobotsTXT = true
@@ -15,23 +15,14 @@ pygmentsCodefencesGuessSyntax = true
 [params]
 title = "Bart-Jan Boverhof"
 author = "Bart-Jan"
-description = "Student Methods & Statistics"
+description = "Statistician"
 profilePicture = "images/profile.jpg"
 keywords = "Bart-Jan Boverhof, Bart-Jan, Boverhof, Utrecht University, Statistics, Statistiek"
-favicon = "favicons/"
-# example ["css/custom.css"]
-customCss = []
-# example ["js/custom.js"]
-customJs = [] 
-mainSections = []
-images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
 displayMode = "dark"
-
-
-
-## Social links
-# use 'fab' when brand icons, use 'fas' when standard solid icons.
+themeColor = "#9b9796"
+copyright = "Bart-Jan Boverhof"
+builtWith = true
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
@@ -53,19 +44,26 @@ url = "mailto:bjboverhof@gmail.com"
 [menu]
 
   [[menu.main]]
-  name = "Home"
-  identifier = "home"
-  weight = 100
-  url = "/home/home"
-
-  [[menu.main]]
   name = "About Me"
   weight = 300
   identifier = "about"
-  url = "/about/about/"
+  url = "/about/"
 
   [[menu.main]]
   name = "CV"
   weight = 400
   identifier = "cv.pdf"
   url = "/cv/cv.pdf"
+
+[markup]
+
+  [markup.highlight]
+  codeFences = true
+  guessSyntax = false
+  hl_Lines = ""
+  lineNoStart = 1
+  lineNos = false
+  lineNumbersInTable = true
+  noClasses = true
+  style = "monokai"
+  tabWidth = 4
