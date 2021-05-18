@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://bartjanboverhof.github.io/home/home/</loc>
-  </url>
-  
-  <url>
     <loc>https://bartjanboverhof.github.io/about/about/</loc>
   </url>
   
@@ -15,15 +11,11 @@
   </url>
   
   <url>
-    <loc>https://bartjanboverhof.github.io/categories/</loc>
-  </url>
-  
-  <url>
     <loc>https://bartjanboverhof.github.io/</loc>
   </url>
   
   <url>
-    <loc>https://bartjanboverhof.github.io/home/</loc>
+    <loc>https://bartjanboverhof.github.io/categories/</loc>
   </url>
   
   <url>

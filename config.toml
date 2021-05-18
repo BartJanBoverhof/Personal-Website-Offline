@@ -1,62 +1,73 @@
 baseURL = "https://bartjanboverhof.github.io"
-languageCode = "en"
-DefaultContentLanguage = "en"
-title = "Home"
-theme = "anatole"
-summarylength = 10
-enableEmoji = true
-enableRobotsTXT = true
+title = "Bart-Jan Boverhof"
+theme = "coder-portfolio"
 
-# Syntax highlighting
+
+DefaultContentLanguage = "en"
+
+paginate = 20
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
 pygmentsUseClasses = true
-pygmentsCodeFences = true
-pygmentsCodefencesGuessSyntax = true
 
 [params]
-title = "Bart-Jan Boverhof"
-author = "Bart-Jan"
-description = "Student Methods & Statistics"
-profilePicture = "images/profile.jpg"
-keywords = "Bart-Jan Boverhof, Bart-Jan, Boverhof, Utrecht University, Statistics, Statistiek"
-favicon = "favicons/"
-# example ["css/custom.css"]
-customCss = []
-# example ["js/custom.js"]
-customJs = [] 
-mainSections = []
-images = ["images/site-feature-image.png"]
-doNotLoadAnimations = false
-displayMode = "dark"
+    author = "Bart-Jan Boverhof"
+    description = "Bart-Jan's Personal Website"
+    keywords = "developer,personal,boverhof,bart-jan,deeplearning,statistics"
+    info = "Statistician & Data Scientist"
+    avatarurl = "images/bj.jpg"
+    fixedbarContentAfter = "Thank You! Please share it if you like it→"
+
+    hideCredits = false
+    hideCopyright = false
+
+
+   # Bottom sns share
+    snsShare = true
+    # Popular sns share
+    # if you want add sns. please message!
+
+
+    thumbnail = "images/tn.png"
+
+    # Custom CSS
+    custom_css = []
+
+    # Alignment of Mobile Menu items
+    itemscentered = true
+
+    # RTL support
+    rtl = false
+
+    langseparator = "|"
 
 
 
-## Social links
-# use 'fab' when brand icons, use 'fas' when standard solid icons.
-
-[[params.socialIcons]]
-icon = "fab fa-linkedin"
-title = "Linkedin"
-url = "https://www.linkedin.com/in/bart-jan-boverhof-5380a6142"
-
-[[params.socialIcons]]
-icon = "fab fa-github"
-title = "GitHub"
-url = "https://github.com/BartJanBoverhof"
-
-[[params.socialIcons]]
-icon = "fas fa-envelope"
-title = "e-mail"
-url = "mailto:bjboverhof@gmail.com"
-
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github"
+    weight = 1
+    url = "https://github.com/BartJanBoverhof"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin"
+    weight = 3
+    url = "https://www.linkedin.com/in/bart-jan-boverhof-5380a6142"
+[[params.social]]
+    name = "Mail"
+    icon = "fas fa-envelope"
+    weight = 3
+    url = "mailto:bjboverhof@gmail.com"
+[[params.social]]
+    name = "Mail"
+    icon = "fas fa-book"
+    weight = 3
+    url = "https://www.goodreads.com/user/show/90941480-bart-jan"
 ## Menu items
 
 [menu]
-
-  [[menu.main]]
-  name = "Home"
-  identifier = "home"
-  weight = 100
-  url = "/home/home"
 
   [[menu.main]]
   name = "About Me"
