@@ -5,7 +5,7 @@ date = "2021"
 author = "Bart-Jan Boverhof"
 +++
 
-On this page I will ellaborate on some of the major projects in which I have been involved. Only projects since starting my master are listed. For a complete overview of my cv please follow [this link](https://bartjanboverhof.github.io/cv/cv.pdf)  
+On this page I will elaborate on some of the major projects in which I have been involved. Only projects since starting my master are listed. For a complete overview of my cv please follow [this link](https://bartjanboverhof.github.io/cv/cv.pdf)  
 <br>  
 <br>  
 <br>  
