@@ -76,10 +76,10 @@ pygmentsUseClasses = true
   url = "/about/about/"
 
   [[menu.main]]
-  name = "CV"
+  name = "Resumé"
   weight = 300
-  identifier = "cv.pdf"
-  url = "/cv/cv.pdf"
+  identifier = "resume.pdf"
+  url = "/resume/resume.pdf"
 
   [[menu.main]]
   name = "projects"
