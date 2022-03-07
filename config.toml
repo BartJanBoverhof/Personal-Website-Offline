@@ -1,6 +1,6 @@
 baseURL = "https://bartjanboverhof.github.io"
 title = "Bart-Jan Boverhof"
-theme = "coder-portfolio"
+theme = "hugo-coder"
 
 
 DefaultContentLanguage = "en"
@@ -13,16 +13,17 @@ pygmentscodefencesguesssyntax = true
 pygmentsUseClasses = true
 
 [params]
-    author = "Bart-Jan Boverhof"
-    description = "Bart-Jan's Personal Website"
-    keywords = "developer,personal,boverhof,bart-jan,deeplearning,statistics"
-    info = "Statistician & Data Scientist"
-    avatarurl = "images/bj.jpg"
-    fixedbarContentAfter = "Thank You! Please share it if you like it→"
+author = "Bart-Jan Boverhof"
+description = "Bart-Jan's Personal Website"
+keywords = "developer,personal,boverhof,bart-jan,deeplearning,statistics"
+info = "PhD Candidate Erasmus University"
+avatarurl = "images/alt.png"
+dateFormat = "January 2, 2006"
+hideColorSchemeToggle = false
+colorScheme = "dark"
 
-    hideCredits = false
-    hideCopyright = false
-
+hideCredits = false
+hideCopyright = false
 
    # Bottom sns share
     snsShare = true
@@ -46,23 +47,19 @@ pygmentsUseClasses = true
 
 
 [[params.social]]
-    name = "Github"
-    icon = "fab fa-github"
+    name = "GitHub"
     weight = 1
     url = "https://github.com/BartJanBoverhof"
 [[params.social]]
     name = "LinkedIn"
-    icon = "fab fa-linkedin"
     weight = 3
     url = "https://www.linkedin.com/in/bart-jan-boverhof-5380a6142"
 [[params.social]]
-    name = "Mail"
-    icon = "fas fa-envelope"
+    name = "Mail Me"
     weight = 3
-    url = "mailto:bjboverhof@gmail.com"
+    url = "mailto:boverhof@eshpm.eur.nl"
 [[params.social]]
-    name = "Mail"
-    icon = "fas fa-book"
+    name = "Goodreads"
     weight = 3
     url = "https://www.goodreads.com/user/show/90941480-bart-jan"
 ## Menu items
@@ -76,13 +73,13 @@ pygmentsUseClasses = true
   url = "/about/about/"
 
   [[menu.main]]
-  name = "Resumé"
+  name = "Cv"
   weight = 300
-  identifier = "resume.pdf"
-  url = "/resume/resume.pdf"
+  identifier = "cv.pdf"
+  url = "/cv/cv.pdf"
 
   [[menu.main]]
-  name = "projects"
+  name = "Projects"
   weight = 290
   identifier = "projects"
   url = "/projects/projects/"
