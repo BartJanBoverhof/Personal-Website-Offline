@@ -16,11 +16,11 @@ pygmentsUseClasses = true
 author = "Bart-Jan Boverhof"
 description = "Bart-Jan's Personal Website"
 keywords = "developer,personal,boverhof,bart-jan,deeplearning,statistics"
-info = "PhD Candidate Erasmus University"
+info = "PhD Candidate ~ Erasmus University"
 avatarurl = "images/alt.png"
 dateFormat = "January 2, 2006"
 hideColorSchemeToggle = false
-colorScheme = "dark"
+colorScheme = "light"
 
 hideCredits = false
 hideCopyright = false

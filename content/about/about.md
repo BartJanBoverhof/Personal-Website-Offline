@@ -11,7 +11,7 @@ author = "Bart-Jan Boverhof"
 
 ![Thesis](/images/old.jpeg)
 
-I am PhD candidate at the [Erasmus School of Health Policy & Management](https://www.eur.nl/en/eshpm) at Erasmus University. My research interests are in the evaluation of clinical Artificial Intelligence (AI) systems, AI in general and Statistics 
+I am PhD candidate at the [Erasmus School of Health Policy & Management](https://www.eur.nl/en/eshpm) at Erasmus University. My research interests are in the evaluation of clinical Artificial Intelligence (AI) systems, AI in general and Statistics. 
 
 This interest in statistics was initially kindled as undergraduate Sociology student at Utrecht University. Whilst studying Sociology, I already quickly realised that statistics sparked my interest the most. Luckily, my program allowed for a lot of freedom with regards to electives, which led me to take quite a bit of statistics courses. I finally wrote my [Bachelor-Thesis](https://dspace.library.uu.nl/handle/1874/392915) on *Hidden Markov Models* at the department of Methods and Statistics, and realized statistics was something I’d love to pursue further.
 

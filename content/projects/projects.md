@@ -7,7 +7,7 @@ author = "Bart-Jan Boverhof"
 
 
 
-Listed here are some of the recent projects I have been working on. For a complete overview of my resumé please see [resumé](https://bartjanboverhof.github.io/resume/resume.pdf)  
+Listed here are some of the recent projects I have been working on. For a complete overview of my CV please see [CV](https://bartjanboverhof.github.io/cv/cv.pdf)  
 <br>  
 
 ---
