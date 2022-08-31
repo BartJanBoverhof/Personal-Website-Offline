@@ -11,8 +11,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://bartjanboverhof.github.io/about/about/</guid>
-      <description>I am PhD candidate at the Erasmus School of Health Policy &amp;amp; Management at Erasmus University. My research interests are in the evaluation of clinical Artificial Intelligence (AI) systems, AI in general and Statistics.
-This interest in statistics was initially kindled as undergraduate Sociology student at Utrecht University. Whilst studying Sociology, I already quickly realised that statistics sparked my interest the most. Luckily, my program allowed for a lot of freedom with regards to electives, which led me to take quite a bit of statistics courses.</description>
+      <description>My enthusiasm about statistics was firstly kindled as undergraduate Sociology student at Utrecht University. Whilst studying Sociology, I already quickly realised that statistics sparked my interest the most. Luckily, my program allowed for a lot of freedom with regards to electives, which led me to dive into statistics. I wrote my Bachelor-Thesis on Hidden Markov Models at the department of Methods and Statistics, and realized statistics was something I’d love to pursue further.</description>
     </item>
     
     <item>
@@ -21,9 +20,8 @@ This interest in statistics was initially kindled as undergraduate Sociology stu
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://bartjanboverhof.github.io/projects/projects/</guid>
-      <description>Listed here are some of the recent projects I have been working on. For a complete overview of my CV please see CV
- Masterthesis Project    September 2020 - Present    Abstract
-The approach of using physiological sensors for the assessment of mental workload has gained in popularity in recent years. We utilized three physiological sensors in predicting mental workload, being electroencephalography (EEG), photoplethysmography (PPG) and galvanic skin response (GSR).</description>
+      <description>Listed here are my recent projects. For a more comprehensive overview see my CV.
+ PhD Health Technology Assessment of Artificial Intelligence    May 2020 - present    The objective of my PhD project is to improve the HTA methodology in order to evaluate medical artificial intelligence (AI). There are many AI applications with the potential to personalize prevention and treatment and improve the quality of the healthcare system.</description>
     </item>
     
   </channel>
